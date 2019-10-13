@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "black-obelisk-253402",
+  "private_key_id": "2b1750456a3d048a7830f7518ec7327d7661cfe2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqM+JGKXMl56QD\nBf5BBVDCOjUHAP+28Ic2rnS35RPJM2VoT0Qsy3EyrTaYCKmHqCUW4img9dBYxgTr\n7CwSAtyu35tNe9RbNLnTuCLRJ0VVFzg6U1/3z+kIXPbmOpd453JC/xlDjstdQp7N\np1YraGe6g9K9YHLVbDt7WvrhyPm3A3HlCs6empHwSiaYDtZQvbrursTIhNOc7EEc\nRchJxmoXQPcHR0EfoKqLXP8kP1NWvJnToY81NLfQm4EAMkMpBVUiXEDQZXgIBAhs\neCbPuPQ0dllqmJPcsWvmRJPrCmNUlKPKsKzPFS50IVMlpbkW9SNGRtrspqKwPWH6\nUQeyvCPjAgMBAAECggEABXMQfUiZzDk6HMgArQTw4gHKbYVQVVjRgM8IeP7Xqasr\nRbIMBRclHQdDZo4YciR7E4bS6GQWc1ExGntUVJCiOjh57iWB1hhpFBNNjL7MzyhQ\nKjs907RkygTCpE/J8Rq6o38sHZKhMO+PdWw0gRf1rO4dkudXUJKyO4UyioTMd1nn\n1RurF8lINmFaShdh+IIwfsGvINUw0jmSmaJi9wbLgF26gqYxyJybqSLYaA9W09p5\n8BEMtzdbTbswugWH5QQrAhGu1u7dpYYC/h0Tjba676qmqczE+8/H5sFZYtt6D3z2\nehwQgUjgJndk4zBMBG+NUoa9aspp7n3PWRHAFkPUqQKBgQDcSye6rh+QATUqKDie\nJ7GbffzNE1p9Big1+ic9hA33bD7t3YieEtI46mr5Y44b2iuxKEbUlcVASrPw8Tzx\niojZ3f4G5Riuf0CpqOzwk0SnNelUyjI0POoOLmQMxb7gJp+QGoGXsa+Uogn+dBqW\n6OyxXMs9eiAHctnLG9NCyFmqnQKBgQDFykKz3mDmPXXGDSMIOhuoQFHs/WRfM0lU\nzAdJ5f+2uaknAeLb95IuuMFb5br9l/q1sBLGTXEHt91r4SK2sRBDXIV7MjgEVQkX\nlLo5G8OQKzaPXmKJW+8Xn7sYylbT8ufdRES5SU/KdSQOololI/Wa2raMdw98Q1E6\nNAsHKRqAfwKBgQCISi8APe3lB/o+ZLfykRg+3QlkTw7yvrZt/p/8XRDO/LdKLn7x\nXS+WauFX/ZHUBXx2lDaOG0L37b+512YfAdh9AezBk0db3frBfHNqu5ID6US8YoQA\n8ZbUwzq+9DCNORgK7XszwIiiakXImUhCCUU2zfQnysC6GwJHuKVRceaXuQKBgQDC\nNS11q579s89WnkONqnDJrg5DYzMQ/yy75HIrr3h8lKRwtrtoPRj+Y08IyvPmWTpE\n+BQXPqcDaxgw+yi4tfdADTLLmq3CIzUAQHrx5D8L6kJyV7ztHqYPTjnJx7Ol/VaJ\nvqS0QjXkl0zGSce1vC9G1AZ2udksrHSvb7Z8W3G4RQKBgD3xo40lZOxlNkgH1XD1\nmXJQc7df+lqcBIV4CJgP94qA/OExAEaTwSKXrbxlRmtqZZr0fDExSFeqXBg1bmZR\naY0N9wadYos3JHT94C3gYdbFH+EAMQEXT8UtQ5g4poL3wRxhDiOzf4arivxzweCo\nA0c+AnaHu7pBE/TdWUfHS9Fx\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraformdeploy@black-obelisk-253402.iam.gserviceaccount.com",
+  "client_id": "112158855481741548424",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraformdeploy%40black-obelisk-253402.iam.gserviceaccount.com"
+}
